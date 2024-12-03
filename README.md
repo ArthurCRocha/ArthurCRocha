@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Oii, tudo bem? Me chamo Arthur! 😊<br><br>Se você chegou aqui, é porque tem interesse no que eu faço, né?<br><br>Então, deixa eu apresentar: <br><br>Atualmente trabalho com Designer Gráfico no IF Sudeste MG - Campus Rio Pomba<br>onde aprendi muito sobre criatividade e marketing digital e comunicação visual. <br><br>E Sem sugestões de Desenvolvedor Fullstack mergulhando no mundo do <br>Angular e Grails duas linguagens voltadas a desenvolvimento web.
+Oii, tudo bem? Me chamo Arthur! 😊<br><br>Se você chegou aqui, é porque tem interesse no que eu faço, né?<br><br>Então, deixa eu apresentar: <br><br>Atualmente trabalho com Designer Gráfico no IF Sudeste MG - Campus Rio Pomba<br>onde aprendi muito sobre criatividade e marketing digital e comunicação visual. <br><br>E  de Desenvolvedor Fullstack mergulhando no mundo do <br>Angular e Grails duas linguagens voltadas a desenvolvimento web.
 
 
 ## 🌐 Social:
