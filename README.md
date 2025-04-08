@@ -16,5 +16,3 @@ Bem-vindo ao meu perfil! Sou o Arthur Rocha, um entusiasta do design gráfico e 
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArthurCRocha&show_icons=true&theme=dark)
-
-![GIF de Boas-Vindas](URL_DO_GIF)
