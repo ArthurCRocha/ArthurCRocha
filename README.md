@@ -1,24 +1,20 @@
-# 💫 Sobre Mim:
-Oii, tudo bem? Me chamo Arthur! 😊<br><br>Se você chegou aqui, é porque tem interesse no que eu faço, né?<br><br>Então, deixa eu apresentar: <br><br>Atualmente trabalho com Designer Gráfico no IF Sudeste MG - Campus Rio Pomba<br>onde aprendi muito sobre criatividade e marketing digital e comunicação visual. <br><br>E  de Desenvolvedor Fullstack mergulhando no mundo do <br>Angular e Grails duas linguagens voltadas a desenvolvimento web.
+# Olá! 👋
+Bem-vindo ao meu perfil! Sou o Arthur Rocha, um entusiasta do design gráfico e desenvolvimento fullstack.
 
+## Sobre Mim
+- 🎨 Designer Gráfico no IF Sudeste MG - Campus Rio Pomba, focado em criatividade e marketing digital.
+- 💻 Desenvolvedor Fullstack explorando Angular e Grails para soluções web dinâmicas.
 
-## 🌐 Social:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Thuezin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Cand_Rocha) 
+## Conecte-se Comigo
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Cand_Rocha)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Thuezin)
 
-# 💻 Proeficiências:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArthurCRocha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArthurCRocha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCRocha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Habilidades Técnicas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Grails](https://img.shields.io/badge/Grails-4298B8?style=for-the-badge&logo=groovy&logoColor=white)
 
-## 🏆 GitHub Troféus
-![](https://github-profile-trophy.vercel.app/?username=ArthurCRocha&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArthurCRocha&show_icons=true&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArthurCRocha&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ArthurCRocha&icon=10&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GIF de Boas-Vindas](URL_DO_GIF)
