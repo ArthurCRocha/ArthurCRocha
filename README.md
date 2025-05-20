@@ -1,18 +1,19 @@
-# Olá! 👋
-Bem-vindo ao meu perfil! Sou o Arthur Rocha, um entusiasta do design gráfico e desenvolvimento fullstack.
+Olá, eu sou o Arthur Candian Rocha! 👋
+Desenvolvedor focado em JavaScript, apaixonado por tecnologia e sempre buscando aprender coisas novas. Confira um pouco sobre meus projetos e experiências!
 
-## Sobre Mim
-- 🎨 Designer Gráfico no IF Sudeste MG - Campus Rio Pomba, focado em criatividade e marketing digital.
-- 💻 Desenvolvedor Fullstack explorando Angular e Grails para soluções web dinâmicas.
+🚀 Projetos Recentes em Destaque
+ArthurcandianDev — Meu portfólio pessoal, desenvolvido em HTML, TypeScript e CSS.
+Sistema de Gestão Financeira — Sistema para gerenciamento financeiro, voltado para empresas do setor de terraplanagem.
+Gerenciador de Mercado — Gerenciador de mercado para as instituições de Rio Pomba/MG.
+APRENDENDO-JS — Repositório para estudo e prática de JavaScript, HTML e CSS.
+💻 Tecnologias que domino
+JavaScript (principal)
+HTML, CSS, TypeScript
+Noções de SCSS e Groovy
+🏅 Conquistas & Experiências
+Adicione aqui suas experiências profissionais, conquistas, certificações ou premiações relevantes.
 
-## Conecte-se Comigo
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Cand_Rocha)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Thuezin)
-
-## Habilidades Técnicas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Grails](https://img.shields.io/badge/Grails-4298B8?style=for-the-badge&logo=groovy&logoColor=white)
-
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArthurCRocha&show_icons=true&theme=dark)
+📫 Contato
+LinkedIn <!-- Adicione seu link -->
+Portfólio <!-- Se quiser outro, me envie! -->
+E-mail: <!-- Adicione seu e-mail aqui -->
