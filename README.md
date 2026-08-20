@@ -1,12 +1,12 @@
 <!-- Header animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arthur%20Candian&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20AI%20Specialist&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arthur%20Candian&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Developer%20%7C%20Flutter%20%7C%20UI/UX%20%7C%20IA&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/ArthurCRocha">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Construindo+produtos+funcionais+e+est%C3%A9ticos;Front-end+%2B+Back-end+%2B+Design+%2B+IA;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=8b5cf6&vCenter=true&pause=1000&size=20" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvimento+mobile+com+Flutter+%2B+SQL;Front-end+%2B+Back-end+%2B+Design+%2B+IA;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=8b5cf6&vCenter=true&pause=1000&size=20" />
   </a>
 </div>
 
@@ -29,18 +29,25 @@
 
 ## 🎯 Sobre Mim
 
-Profissional de tecnologia com **perfil "T-Shaped"**, unindo sólida base em **Ciência da Computação** com especialização em **Desenvolvimento Front-end** e **Design Digital**.
+Profissional de tecnologia com **perfil "T-Shaped"**: base sólida construída em **Ciência da Computação**, hoje focada em **Desenvolvimento Mobile (Flutter)** e **Análise e Desenvolvimento de Sistemas**, com bagagem em Front-end, Design Digital e automação com IA.
 
-- 🔭 Atualmente construindo uma **Plataforma SaaS de Automação de Marketing com IA** (TCC)
-- 💼 Técnico de TI & Desenvolvedor na **SantiagoTi** + Estagiário de Inovação na **Prefeitura de Rio Pomba**
-- 🎓 Bacharelado em Ciência da Computação — **IF Sudeste MG**
-- 🤖 Especializando em **integração de IA Generativa** (LLMs, Stable Diffusion) em fluxos de software
-- 📍 Rio Pomba, MG — disponível para **remoto e relocação**
+- 📱 Estagiário de desenvolvimento na **Bioma Investimentos** — integração **Flutter + SQL**, desenvolvimento mobile e suporte ao cliente
+- 🏢 Atuo também na **Assurance**, na torre de alocação de profissionais — alocação de clientes em sistemas internos e no portal da **IBM**, formatação de currículos e gestão do chat do LinkedIn da empresa
+- 🎓 Cursando **Tecnólogo em ADS** na **Univiçosa** (base anterior: Ciência da Computação no IF Sudeste MG)
+- 🤖 Experiência com **integração de IA Generativa** (LLMs, Stable Diffusion) em fluxos de software
+- 📍 Minas Gerais — disponível para **remoto e relocação**
 - ⚡ Fun fact: transito fácil entre o time Dev e o time criativo (Design/Marketing)
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 📱 Mobile
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
 ### 💻 Linguagens & Frameworks
 <div align="left">
@@ -50,6 +57,7 @@ Profissional de tecnologia com **perfil "T-Shaped"**, unindo sólida base em **C
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </div>
@@ -75,17 +83,94 @@ Profissional de tecnologia com **perfil "T-Shaped"**, unindo sólida base em **C
 
 ---
 
-## 🚀 Projeto Destaque
+## 💼 Experiência Atual
 
-### 🤖 Plataforma de Automação de Marketing com IA (TCC)
+**Bioma Investimentos** | Estagiário de Desenvolvimento (Ago 2026 – Presente)
+- Integração de aplicações **Flutter** com bancos de dados **SQL**
+- Desenvolvimento mobile e suporte ao cliente
 
+**Assurance** | Torre de Alocação de Profissionais (Fev 2026 – Presente)
+- Alocação de clientes no sistema interno da empresa e no portal da **IBM**
+- Formatação de currículos de profissionais
+- Gestão e atendimento do chat do **LinkedIn** corporativo
+
+<details>
+<summary><b>📜 Experiências anteriores</b></summary>
+
+<br/>
+
+**Prefeitura Municipal de Rio Pomba** | Estagiário de Inovação & Marketing (Ago 2025 – Jul 2026)
+- Automações com IA para otimizar processos internos
+- Design gráfico e audiovisual para campanhas institucionais
+
+**SantiagoTi** | Técnico de TI & Desenvolvedor (Jul 2025 – Dez 2025)
+- Infraestrutura de hardware, redes e segurança (CFTV)
+- Desenvolvimento de soluções full-stack sob demanda
+
+**Metryx Tecnologia (AgTech)** | Estagiário Front-end (Nov 2024 – Fev 2025)
+- Angular.js para sistemas de gestão agrícola, correção de bugs e melhorias de UX
+
+**IF Sudeste MG** | Estagiário de Design & Comunicação (Mar 2023 – Mar 2025)
+- Identidade visual, design gráfico institucional, edição de vídeos e gestão de ativos digitais
+
+**EmComp (Empresa Júnior)** | Consultor Web & Marketing (Jun 2022 – Jan 2024)
+- Sites institucionais B2B com estratégias de SEO
+
+</details>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🤖 [Tcc-Marketing-Management](https://github.com/ArthurCRocha/Tcc-Marketing-Management)
 Ecossistema **SaaS** para geração automática de criativos publicitários:
-
 - ⚙️ **Arquitetura assíncrona** com filas Redis (BullMQ) para processamento pesado de imagens sem travar a experiência do usuário
 - 🧠 Integração com **APIs de IA Generativa** (Stable Diffusion / LLMs)
 - 🐳 Containerização completa com **Docker**
 
 `Node.js` `React` `Redis` `Docker` `PostgreSQL` `AI APIs`
+
+### 💰 [Sistema-de-Gestao-Financeira](https://github.com/ArthurCRocha/Sistema-de-Gestao-Financeira)
+Sistema aplicado a regras de negócio reais, com foco na gestão do setor de terraplanagem.
+
+`HTML` `CSS` `JavaScript`
+
+### 🛒 [Gerenciador_de_mercado](https://github.com/ArthurCRocha/Gerenciador_de_mercado)
+Solução de software sob medida voltada para demandas de instituições locais.
+
+`Full-Stack` `Gestão`
+
+### 💬 [Chatbot_Whatsapp](https://github.com/ArthurCRocha/Chatbot_Whatsapp)
+Fluxos conversacionais e automação de processos via integração de APIs para ganho de eficiência operacional.
+
+`Automação` `APIs`
+
+### 🏛️ [cartorio](https://github.com/ArthurCRocha/cartorio)
+Sistema estruturado de registro com banco de dados em back-end tradicional.
+
+`PHP` `MySQL`
+
+<details>
+<summary><b>🎨 Projetos de interface & mobile</b></summary>
+
+<br/>
+
+- **[arthurcrocha.github.io](https://github.com/ArthurCRocha/arthurcrocha.github.io)** — portfólio digital em `TypeScript`, front-end moderno com tipagem estática
+- **[LandingpageIHCtask](https://github.com/ArthurCRocha/LandingpageIHCtask)** — aplicação de conceitos de IHC, UI/UX e design centrado no usuário (`HTML` `CSS`)
+- **[aprendendo-flutter](https://github.com/ArthurCRocha/aprendendo-flutter)** / **aprendendo-flutter01** — transição para o ecossistema mobile com `Flutter` e `Dart`
+- **Aula-de-devMobile** — capacitação contínua em interfaces móveis com `JavaScript` e Git
+
+</details>
+
+---
+
+## 🎓 Formação
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Univiçosa (Dez 2025 – atual)
+  - Foco em aceleração de carreira e mercado aplicado
+
+- **Bacharelado em Ciência da Computação** | IF Sudeste MG (2020 – 2025)
+  - Base sólida em Engenharia de Software & IHC (curso trancado para transição de carreira)
 
 ---
 
