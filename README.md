@@ -1,6 +1,6 @@
 <!-- Header animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Arthur%20Candian&amp;fontSize=60&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Mobile%20%26%20Full-Stack%20Developer%20%7C%20Flutter%20%7C%20UI/UX%20%7C%20IA&amp;descAlignY=60&amp;descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Arthur%20Candian&amp;fontSize=60&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Mobile%20e%20Full-Stack%20Developer%20%7C%20Flutter%20%7C%20UI/UX%20%7C%20IA&amp;descAlignY=60&amp;descSize=18" width="100%"/>
 </div>
 
 <!-- Typing animation -->
@@ -122,6 +122,19 @@ Profissional de tecnologia com **perfil "T-Shaped"**: base sólida construída e
 
 ## 🚀 Projetos em Destaque
 
+### 🤖 [Tcc-Marketing-Management](https://github.com/ArthurCRocha/Tcc-Marketing-Management)
+Ecossistema **SaaS** para geração automática de criativos publicitários:
+- ⚙️ **Arquitetura assíncrona** com filas Redis (BullMQ) para processamento pesado de imagens sem travar a experiência do usuário
+- 🧠 Integração com **APIs de IA Generativa** (Stable Diffusion / LLMs)
+- 🐳 Containerização completa com **Docker**
+
+`Node.js` `React` `Redis` `Docker` `PostgreSQL` `AI APIs`
+
+### 💰 [Sistema-de-Gestao-Financeira](https://github.com/ArthurCRocha/Sistema-de-Gestao-Financeira)
+Sistema aplicado a regras de negócio reais, com foco na gestão do setor de terraplanagem.
+
+`HTML` `CSS` `JavaScript`
+
 ### 🛒 [Gerenciador_de_mercado](https://github.com/ArthurCRocha/Gerenciador_de_mercado)
 Solução de software sob medida voltada para demandas de instituições locais.
 
@@ -174,7 +187,7 @@ Sistema estruturado de registro com banco de dados em back-end tradicional.
 
 ---
 
-## 🐍 Movimentos
+## 🐍 Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
