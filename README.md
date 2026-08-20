@@ -122,14 +122,6 @@ Profissional de tecnologia com **perfil "T-Shaped"**: base sólida construída e
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 [Tcc-Marketing-Management](https://github.com/ArthurCRocha/Tcc-Marketing-Management)
-Ecossistema **SaaS** para geração automática de criativos publicitários:
-- ⚙️ **Arquitetura assíncrona** com filas Redis (BullMQ) para processamento pesado de imagens sem travar a experiência do usuário
-- 🧠 Integração com **APIs de IA Generativa** (Stable Diffusion / LLMs)
-- 🐳 Containerização completa com **Docker**
-
-`Node.js` `React` `Redis` `Docker` `PostgreSQL` `AI APIs`
-
 ### 💰 [Sistema-de-Gestao-Financeira](https://github.com/ArthurCRocha/Sistema-de-Gestao-Financeira)
 Sistema aplicado a regras de negócio reais, com foco na gestão do setor de terraplanagem.
 
@@ -187,7 +179,7 @@ Sistema estruturado de registro com banco de dados em back-end tradicional.
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Movimentos
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
