@@ -122,11 +122,6 @@ Profissional de tecnologia com **perfil "T-Shaped"**: base sólida construída e
 
 ## 🚀 Projetos em Destaque
 
-### 💰 [Sistema-de-Gestao-Financeira](https://github.com/ArthurCRocha/Sistema-de-Gestao-Financeira)
-Sistema aplicado a regras de negócio reais, com foco na gestão do setor de terraplanagem.
-
-`HTML` `CSS` `JavaScript`
-
 ### 🛒 [Gerenciador_de_mercado](https://github.com/ArthurCRocha/Gerenciador_de_mercado)
 Solução de software sob medida voltada para demandas de instituições locais.
 
