@@ -161,19 +161,6 @@ Sistema estruturado de registro com banco de dados em back-end tradicional.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArthurCRocha&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=00000000"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCRocha&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurCRocha&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
