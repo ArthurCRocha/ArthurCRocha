@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/ArthurCRocha">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines= Desenvolvimento+mobile+com+Flutter+%2B+SQL;Front-end+%2B+Back-end+%2B+Design+%2B+IA;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=8b5cf6&amp;vCenter=true&amp;pause=1000&amp;size=20" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvimento+mobile+com+Flutter+%2B+SQL;Front-end+%2B+Back-end+%2B+Design+%2B+IA;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=8b5cf6&amp;vCenter=true&amp;pause=1000&amp;size=20" />
   </a>
 </div>
 
