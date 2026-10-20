@@ -33,9 +33,7 @@ Sou Arthur Candian Rocha. Trabalho com aplicações web, desenvolvimento mobile 
 
 **Dos dados legados ao celular do motorista.**
 
-Aplicativo para motoristas e transportadores de leite consultarem demonstrativos de pagamento, volume transportado e coletas diárias. Na Bioma Investimentos, contribuo em equipe para o fluxo entre ERP legado, sincronização, API e aplicativo mobile.
-
-Minha contribuição inclui trabalho com SQL Server e T-SQL, sincronização em Python e PowerShell, domínio do motorista e autenticação na API, além da integração Flutter e validação em dispositivo físico.
+Aplicativo para motoristas e transportadores de leite, na Bioma Investimentos, contribuo em equipe para o fluxo entre ERP legado, sincronização, API e aplicativo mobile.
 
 <sub>Flutter · Dart · Python · FastAPI · PostgreSQL · SQL Server / T-SQL</sub>
 
