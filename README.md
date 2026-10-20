@@ -1,112 +1,98 @@
-<div align="center">
-  <img src="./assets/profile-header.svg" alt="Arthur Rocha — Full Stack Developer × Digital Design" width="100%" />
-</div>
+<picture>
+  <source media="(max-width: 480px)" srcset="./assets/profile-header-mobile.svg" />
+  <img src="./assets/profile-header.svg" alt="Arthur Rocha — desenvolvimento de software e design. Papel quente, tipografia serifada, tinta preta e sol vermelho." width="100%" />
+</picture>
 
+<p align="center">
+  <a href="https://arthurcrocha.netlify.app/">Portfólio ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/arthur-candian-rocha-3b346124a/">LinkedIn ↗</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:arthurcandian@gmail.com">Email ↗</a>
+</p>
 
-<div align="center">
-  <a href="https://arthurcrocha.netlify.app/">PORTFOLIO ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arthur-candian-3b346124a/">LINKEDIN ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:arthurcandian@gmail.com">EMAIL ↗</a>
-</div>
+## 00 / PROFILE
 
+**Desenvolvedor Full Stack com experiência em design gráfico.**
 
-00 / PROFILE
-Desenvolvedor Full Stack com background em design.
-Construo produtos entre código, dados, mobile e interface — com atenção especial à forma como sistemas funcionam e à forma como são percebidos.
-<sub>Full Stack Developer with a design background — building across code, data, mobile and interface.</sub>
-DESIGN DIDN'T REPLACE CODE. IT CHANGED HOW I BUILD IT.
+Sou Arthur Candian Rocha. Trabalho com aplicações web, desenvolvimento mobile e automações, conectando código, dados e interfaces. Minha trajetória em design e produção audiovisual também orienta o cuidado que tenho com a apresentação e o uso de cada produto.
 
-01 / NOW
-<table>
-  <tr>
-    <td><sub>WORK / 01</sub><br/><strong>Bioma Investimentos</strong></td>
-    <td>Estagiário de Desenvolvimento · Flutter, integrações, SQL e suporte<br/><sub>AGO 2026 → PRESENTE</sub></td>
-  </tr>
-  <tr>
-    <td><sub>STUDY / 02</sub><br/><strong>Univiçosa</strong></td>
-    <td>Análise e Desenvolvimento de Sistemas<br/><sub>2026 → PRESENTE</sub></td>
-  </tr>
-  <tr>
-    <td><sub>FOCUS / 03</sub><br/><strong>Building</strong></td>
-    <td>Full-stack systems · Mobile · Automation · Design-aware engineering</td>
-  </tr>
-</table>
+<sub>Full Stack Developer with a design background. Web, mobile and automation.</sub>
 
-02 / SELECTED WORK
-01 — PRODISel
-Do dado legado ao celular do motorista.
-Aplicação mobile para transportadores de leite, com trabalho atravessando o fluxo completo do produto:
-<pre>
-LEGACY ERP        SYNC / SENDER        API                 MOBILE
-SQL Server   →    Python / PowerShell  → FastAPI/Postgres  → Flutter
-T-SQL
-</pre>
+> O design mudou a forma como eu construo software.
 
-Atuação em descoberta de produto, integrações, domínio de motorista, autenticação, sincronização, testes e validação em aparelho real.
-<sub>Flutter · Dart · FastAPI · PostgreSQL · SQL Server / T-SQL · Python</sub>
-02 — CV STANDARDIZATION
-Informação desestruturada → estrutura consistente.
-Automação em Python + Gemini API para padronização de currículos em fluxos de RH, preservando as informações originais enquanto normaliza estrutura e saída.
-<sub>Python · Gemini API · LLM · Automation</sub>
-03 / CRAFT
-<table>
-  <tr>
-    <td><sub>INTERFACES</sub></td>
-    <td>Flutter · React · Angular · TypeScript · JavaScript</td>
-  </tr>
-  <tr>
-    <td><sub>BACKEND</sub></td>
-    <td>Python · FastAPI · Node.js · Express · Java</td>
-  </tr>
-  <tr>
-    <td><sub>DATA</sub></td>
-    <td>PostgreSQL · SQL Server / T-SQL · MySQL · Redis</td>
-  </tr>
-  <tr>
-    <td><sub>TOOLS</sub></td>
-    <td>Docker · Git/GitHub · Codemagic · REST · JWT</td>
-  </tr>
-  <tr>
-    <td><sub>VISUAL</sub></td>
-    <td>UI/UX · Figma · Photoshop · Canva · audiovisual</td>
-  </tr>
-</table>
+## 01 / NOW
 
-Sem porcentagens ou níveis artificiais: as ferramentas aparecem ligadas ao trabalho onde fazem sentido.
-04 / BUILD LOG
-2026 / PORTFOLIO
-Redesign completo do portfólio com direção editorial japonesa, Three.js / React Three Fiber e GSAP.
-2026 / PRODISel
-Integração ponta a ponta entre legado, sincronização, API e aplicativo mobile.
-2026 / CV STANDARDIZATION
-Automação de documentos com Python e IA generativa aplicada a um fluxo real de RH.
-05 / PATH
-<pre>
-2017–18    creative background
-    ↓
-2020       computing
-    ↓
-design     visual practice
-    ↓
-frontend   interfaces / Angular
-    ↓
-full-stack mobile / integrations / data
-    ↓
-2026       ADS / Univiçosa
-    ↓
-NOW        still learning · still building
-</pre>
+- **Bioma Investimentos** · Estagiário de Desenvolvimento desde agosto de 2026. Flutter, SQL, suporte e integração entre sistemas.
+- **Univiçosa** · Análise e Desenvolvimento de Sistemas em andamento, com início em 2026.
+- **Assurance IT** · Assistente de RH, com iniciativa própria de automação da padronização de currículos.
 
-A trajetória não foi uma linha reta — e isso virou parte de como eu construo.
-06 / CONNECT
-Vamos construir algo.
-Portfolio ·
-LinkedIn ·
-Email ·
-GitHub
+## 02 / SELECTED WORK
 
-<sub>ARTHUR ROCHA · FULL STACK DEVELOPER · BRAZIL / 2026</sub>
-つづく
-<sub>TO BE CONTINUED.</sub>
+### 01 — Prodiesel
+
+**Dos dados legados ao celular do motorista.**
+
+Aplicativo para motoristas e transportadores de leite consultarem demonstrativos de pagamento, volume transportado e coletas diárias. Na Bioma Investimentos, contribuo em equipe para o fluxo entre ERP legado, sincronização, API e aplicativo mobile.
+
+Minha contribuição inclui trabalho com SQL Server e T-SQL, sincronização em Python e PowerShell, domínio do motorista e autenticação na API, além da integração Flutter e validação em dispositivo físico.
+
+<sub>Flutter · Dart · Python · FastAPI · PostgreSQL · SQL Server / T-SQL</sub>
+
+### 02 — Padronizador de Currículos
+
+**Da informação dispersa a um documento consistente.**
+
+Ferramenta que desenvolvi por iniciativa própria para o RH da Assurance IT. O fluxo começou no Make e evoluiu para uma aplicação local em Python com a API do Gemini, voltada à extração dos dados e aplicação em um modelo fixo de currículo.
+
+Testada com casos reais, com o objetivo de padronizar a estrutura e preservar as informações originais.
+
+<sub>Python · Gemini API · LLM · Automação</sub>
+
+### 03 — Portfólio pessoal
+
+**Design e código na mesma linguagem.**
+
+Portfólio com direção visual inspirada na estética japonesa: papel quente, sol vermelho, tinta preta e tipografia editorial. Construído com React e Vite, animações com GSAP e ScrollTrigger e elementos WebGL com React Three Fiber e Drei. Inclui versões em português e inglês.
+
+<sub>React · Vite · GSAP · React Three Fiber · Drei · UI/UX</sub>
+
+[Visitar portfólio ↗](https://arthurcrocha.netlify.app/) · [Ver código ↗](https://github.com/ArthurCRocha/ArthurCandianRocha)
+
+## 03 / CRAFT
+
+<p>
+  <img src="./assets/badges/react.svg" alt="React" width="82" height="28" />
+  <img src="./assets/badges/typescript.svg" alt="TypeScript" width="120" height="28" />
+  <img src="./assets/badges/flutter.svg" alt="Flutter" width="90" height="28" />
+  <img src="./assets/badges/python.svg" alt="Python" width="88" height="28" />
+  <img src="./assets/badges/java.svg" alt="Java" width="72" height="28" />
+  <img src="./assets/badges/postgresql.svg" alt="PostgreSQL" width="126" height="28" />
+</p>
+
+| Área | Tecnologias e ferramentas |
+| :--- | :--- |
+| Web | React · Angular · TypeScript · JavaScript · HTML · CSS |
+| Mobile | Flutter · Dart |
+| Backend | Python · FastAPI · Node.js · Express · Java |
+| Dados | PostgreSQL · MySQL · SQL Server / T-SQL |
+| Integração | Gemini API · REST · JWT · Git/GitHub · Docker |
+| Design | UI/UX · Figma · Photoshop · Canva · produção audiovisual |
+
+## 04 / PATH
+
+Meu contato com produção audiovisual começou no cineclube, em 2017–2018. Em 2020, ingressei em Ciência da Computação no IF Sudeste MG, de onde saí em 2026. Nesse percurso, atuei com design gráfico e comunicação institucional e passei pelo desenvolvimento de interfaces com Angular na Metryx.
+
+Hoje, continuo minha formação em ADS na Univiçosa e aplico essa combinação de design e desenvolvimento em sistemas web, mobile e automações.
+
+[Estudos de JavaScript ↗](https://github.com/ArthurCRocha/APRENDENDO-JS) · [Mais repositórios ↗](https://github.com/ArthurCRocha?tab=repositories)
+
+## 05 / CONNECT
+
+**Vamos construir algo.**
+
+[Portfólio](https://arthurcrocha.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/arthur-candian-rocha-3b346124a/) · [Email](mailto:arthurcandian@gmail.com) · [GitHub](https://github.com/ArthurCRocha)
+
+---
+
+<sub>ARTHUR ROCHA · DESIGN + CODE · BRASIL</sub>
